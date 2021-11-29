@@ -6,7 +6,7 @@ Este es un ejercicio de desarrollo en React para entender el uso de componentes 
 
 ## Como hacerlo funcionar:
 
-Se debe descargar todos los archivos de este repositorio y guardarlos en alguna carpeta en tu equipo. Posteriormente se puede usar un servidor local para poder dar funcionamiento. También es posible usar con el siguiente link directo:  https://perrochoko.github.io/React-Tic-Tac-Toe/
+Se debe descargar todos los archivos de este repositorio y guardarlos en alguna carpeta en tu equipo. Posteriormente se puede usar un servidor local para poder dar funcionamiento. También es posible usar con el siguiente link directo:  https://perrochoko.github.io/React-Tic-Tac-Toe./
 
 ![image](https://user-images.githubusercontent.com/87394787/143794736-d508c2a9-e088-48a6-a9f0-550ceebca319.png)
 
